@@ -119,6 +119,12 @@ commands and are not required as hand-authored source material.
 公开发布边界包括：归一化 case bank、确定性管线代码、聚合 CSV、测试、term scan、README、许可证和
 paper notes。生成的 checked records 可以通过仓库命令重新生成，不需要作为手写源材料维护。
 
+## arXiv Endorsement / arXiv 推荐材料
+
+For arXiv endorsement preparation, see `paper/arxiv_endorsement.md`.
+
+如需准备 arXiv endorsement / 推荐申请材料，见 `paper/arxiv_endorsement.md`。
+
 ## License / 许可证
 
 This repository is released under the MIT License. See `LICENSE`.
