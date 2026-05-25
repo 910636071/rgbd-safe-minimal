@@ -121,9 +121,9 @@ paper notes。生成的 checked records 可以通过仓库命令重新生成，�
 
 ## arXiv Endorsement / arXiv 推荐材料
 
-For arXiv endorsement preparation, see `paper/arxiv_endorsement.md`.
+arXiv endorsement preparation, see `paper/arxiv_endorsement.md`.
 
-如需准备 arXiv endorsement / 推荐申请材料，见 `paper/arxiv_endorsement.md`。
+arXiv endorsement / 推荐申请材料，见 `paper/arxiv_endorsement.md`。
 
 ## License / 许可证
 
