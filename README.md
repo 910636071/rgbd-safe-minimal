@@ -1,6 +1,7 @@
 # Minimal Symbolic Pipeline
 
-This repository contains a small academic artifact for evaluating linear symbolic pipelines over normalized records.
+This repository contains a small academic artifact for evaluating linear
+symbolic pipelines over normalized records.
 
 The pipeline is:
 
@@ -13,7 +14,8 @@ all parameter values are toy values for reproducibility, not production values
 ## Files
 
 - `data/cases_small.jsonl`: 20 synthetic cases.
-- `scripts/run_pilot.py`: runs the pilot across cases, methods, and repeated passes.
+- `scripts/run_pilot.py`: runs the pilot across cases, methods, and repeated
+  passes.
 - `scripts/export_summary.py`: writes aggregate CSV metrics.
 - `scripts/term_scan.py`: scans repository text files for blocked names.
 - `paper/outline.md`: paper structure and minimal mathematical formulation.
@@ -30,8 +32,11 @@ python -m scripts.term_scan
 
 ## Methods
 
-`summary_loop` builds a cumulative state vector and selects the highest current state.
+`summary_loop` builds a cumulative state vector and selects the highest current
+state.
 
-`template_grid` uses the trace position and pass index to choose among observed states.
+`template_grid` uses the trace position and pass index to choose among observed
+states.
 
-`symbolic_rule` filters observed states with the case constraint lists before selecting a checked record.
+`symbolic_rule` filters observed states with the case constraint lists before
+selecting a checked record.
