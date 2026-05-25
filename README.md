@@ -9,6 +9,25 @@ records and constraint-checked aggregate scoring.
 
 本仓库是一个 clean-room 的最小学术 artifact，用于归一化符号记录和约束检查后的聚合评分。
 
+## Follow-up Artifact / 后续 artifact
+
+A follow-up public artifact is available at:
+
+https://github.com/910636071/constraint-checked-state-records
+
+This repository is the earlier clean-room minimal symbolic pipeline. The
+follow-up repository narrows the public review boundary toward
+constraint-checked state records and record-to-check-to-score reporting. The two
+repositories should be read as sequential artifacts, not as a product system or
+a broad empirical claim.
+
+后续公开 artifact 位于：
+
+https://github.com/910636071/constraint-checked-state-records
+
+本仓库是较早的 clean-room 最小符号管线；后续仓库进一步将公开评审边界收束到
+constraint-checked state records，以及 record-to-check-to-score 的报告协议。这两个仓库应被理解为连续推进的 artifact，而不是产品系统或宽泛经验结论。
+
 The pipeline is:
 
 管线为：
