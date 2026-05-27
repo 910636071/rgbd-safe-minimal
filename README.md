@@ -4,6 +4,19 @@ Author: Lijie Wang, Independent Researcher
 Date: May 2026  
 Contact: wanglijie100@gmail.com
 
+## Archive Status / 归档状态
+
+This repository is archived as the first public clean-room minimal artifact in
+this line of work. It is retained as a fixed seed artifact for reproducibility
+and provenance. Active external review should use the follow-up repository:
+
+https://github.com/910636071/constraint-checked-state-records
+
+本仓库已作为该研究路线的第一个公开 clean-room 最小 artifact 归档保留。
+它用于保留可复现的起点和来源边界。后续外部评审请以如下仓库为准：
+
+https://github.com/910636071/constraint-checked-state-records
+
 This repository is a clean-room toy academic artifact for normalized symbolic
 records and constraint-checked aggregate scoring.
 
